@@ -14,13 +14,13 @@ This is a simulation of various spinach game repo, you will not be able to beat 
 
 # 结构（更新于2023年3月9日）
 ------
-|--Chinese_lottery 中国合法的彩票游戏
+--Chinese_lottery 中国合法的彩票游戏
 
-    |--super_lottery.py 超级大乐透
+    --super_lottery.py 超级大乐透
 
-|--Macau_casino_game 澳门娱乐场里的游戏
+--Macau_casino_game 澳门娱乐场里的游戏
 
-    |--blackjack.py 廿一点（目前是战损版急待修复）
+    --blackjack.py 廿一点（目前是战损版急待修复）
 
 # 欢迎骚扰
 我的邮箱是duanyf21@mails.tsinghua.edu.cn （Duan Dog）
